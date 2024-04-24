@@ -1,4 +1,5 @@
 [run]
+source = core
 omit =
     *env/*
     *__pycache__/*
